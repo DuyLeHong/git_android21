@@ -15,5 +15,7 @@ public class BaseActivity1 extends AppCompatActivity { // fix bug in BaseActivit
 
         //Toast.makeText(getApplicationContext(), "", Toast.LENGTH_SHORT).show();
         Log.d("BaseActivity1", "fix some bug");
+        // update code fix bug
+        Log.d("BaseActivity1", "fix bug complete!");
     }
 }
