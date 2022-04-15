@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Git_android21">
         <activity
+            android:name=".BaseActivity1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
